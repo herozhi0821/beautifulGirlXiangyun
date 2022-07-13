@@ -6,7 +6,7 @@
 Theme by: WebThemez.com 
 */
 $( function() {
-        var endDate = "June  16, 2020 00:00:00";//new Date("October 14,2020 00:00:00");//"October  14, 2020 00:00:00";
+        var endDate = "June  16, 2023 00:00:00";//new Date("October 14,2020 00:00:00");//"October  14, 2020 00:00:00";
 
         $('.countdown.simple').countdown({ date: endDate });
 
